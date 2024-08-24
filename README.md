@@ -11,8 +11,8 @@ This repository contains a Power BI dashboard designed to visualize shipping sal
   - Donut chart for `Total Orders by STATUS`.
   - Donut chart for `Customer_Segments`.
   - Bar chart illustrating `PROFIT MARGIN by PRODUCTLINE`.
-  -  Bar chart showing 'Profit Margin by YEAR'.
-  -  Bar chart showing 'Profit Margin by COUNTRY'.
+  -  Bar chart showing `Profit Margin by YEAR`.
+  -  Bar chart showing `Profit Margin by COUNTRY`.
 
 ## Dashboard
 ![Dashboard Screenshot](https://github.com/ruchira30/Sales-Data-Visualization-using-Power-BI-/blob/main/sales%20dashboard%20final_page-0001.jpg)
