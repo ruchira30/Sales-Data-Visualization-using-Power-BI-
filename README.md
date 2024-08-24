@@ -13,6 +13,6 @@ This repository contains a Power BI dashboard designed to visualize shipping sal
   - Donut chart for `Total Orders by STATUS`.
 
 ## Dashboard
-![Dashboard Screenshot](https://github.com/ruchira30/Sales-Data-Visualization-using-Power-BI-/blob/main/power%20bi%20shipping%20sales.png)
+![Dashboard Screenshot](https://github.com/ruchira30/Sales-Data-Visualization-using-Power-BI-/blob/main/sales%20dashboard.jpg)
 
 
